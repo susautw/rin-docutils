@@ -1,0 +1,7 @@
+sphinx
+sphinx-toolbox
+furo
+
+pytest
+pytest-mock
+pytest-lazy-fixture

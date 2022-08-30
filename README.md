@@ -1,1 +1,1 @@
-# python-template
+# rin-docutils
