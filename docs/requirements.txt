@@ -1,0 +1,4 @@
+# documentation only requirements
+sphinx
+sphinx-toolbox
+furo
