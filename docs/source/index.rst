@@ -12,6 +12,12 @@ Welcome to rin-docutils's documentation!
 
    references
 
+TODO
+==================
+* Installation
+* Usage
+* Contribution
+
 
 
 Indices and tables

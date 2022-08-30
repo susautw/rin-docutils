@@ -5,3 +5,5 @@ furo
 pytest
 pytest-mock
 pytest-lazy-fixture
+
+build
