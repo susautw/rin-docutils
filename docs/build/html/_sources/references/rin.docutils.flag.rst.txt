@@ -1,0 +1,36 @@
+rin.docutils.flag
+=================
+
+.. automodule:: rin.docutils.flag
+   :members:
+   :undoc-members:
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ClassNamedFlag
+      Flag
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
